@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: brown;
+    background-image: url("download images/IMG_E0160");
+    background-size: cover;
+    box-sizing: border-box;
+}
